@@ -1,2 +1,2 @@
 # boss
-organisation
+organisation.
